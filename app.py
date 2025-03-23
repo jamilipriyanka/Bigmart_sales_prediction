@@ -274,7 +274,7 @@ st.markdown("""
     font-weight: 800;
     color: var(--primary);
     text-shadow: 0px 0px 12px var(--shadow-color);
-    padding-left:40px;
+    
 }
 
 
