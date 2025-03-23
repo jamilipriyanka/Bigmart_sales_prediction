@@ -266,7 +266,7 @@ st.markdown("""
     font-size: 1.5rem;
     font-weight: 700;
     text-shadow: 0px 0px 6px var(--shadow-color);
-    text-align: center; 
+    
 }
 
 .result-value {
