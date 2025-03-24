@@ -127,9 +127,9 @@ Models are evaluated using:
 ### Sales prediction
 ![Prediction](images/prediction.jpg)
 
-### 
+### Result
 ![prediction2](images/prediction2.jpg)
-### 
+### Password Setting
 ![prediction2](images/password.jpg)
 
 
