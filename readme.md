@@ -1,7 +1,7 @@
 # BigMart Sales Prediction
 
 ## Overview
-The BigMart Sales Prediction project aims to predict sales for various products in BigMart stores using machine learning techniques. This project utilizes historical sales data to build predictive models that can help in inventory management, sales forecasting, and strategic planning.
+The BigMart Sales Prediction project aims to predict sales for various products across different BigMart stores using machine learning techniques. This project utilizes historical sales data to build predictive models that can help in inventory management, sales forecasting, and strategic planning.
 ## Live Website
 https://bigmart-sales-prediction-2.onrender.com/
 
@@ -12,9 +12,8 @@ https://bigmart-sales-prediction-2.onrender.com/
 - [Usage](#usage)
 - [Data](#data)
 - [Modeling](#modeling)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Demo Screenshots](#Demo Screenshots)
+
 
 ## Tech Stack
 - **Programming Language**: Python
@@ -117,21 +116,19 @@ Models are evaluated using:
 - Mean Absolute Error (MAE)
 - R² Score
 
-## Contributing
-Contributions are welcome! Here's how you can contribute:
+## 📷 Demo Screenshots
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+### Register
+![Walmart Assistant Initial Greeting](greetings_ai.jpg)
 
-Please make sure to update tests as appropriate and adhere to the coding standards.
+### Login
+![Order Support Options](orders_ai.jpg)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Sales prediction
+![Store Locator](nearby_ai.jpg)
 
-## Contact
-Your Name - your.email@example.com
+### 
+![General Support](generalsupport_ai.jpg)
 
-Project Link: [https://github.com/yourusername/bigmart-sales-prediction](https://github.com/yourusername/bigmart-sales-prediction)
+
+
