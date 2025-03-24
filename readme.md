@@ -119,16 +119,19 @@ Models are evaluated using:
 ## 📷 Demo Screenshots
 
 ### Register
-![Walmart Assistant Initial Greeting](greetings_ai.jpg)
+![Register](images/registered.jpg)
 
 ### Login
-![Order Support Options](orders_ai.jpg)
+![Login](images/login.jpg)
 
 ### Sales prediction
-![Store Locator](nearby_ai.jpg)
+![Prediction](images/prediction.jpg)
 
 ### 
-![General Support](generalsupport_ai.jpg)
+![prediction2](images/prediction2.jpg)
+### 
+![prediction2](images/password.jpg)
+
 
 
 
