@@ -2,6 +2,8 @@
 
 ## Overview
 The BigMart Sales Prediction project aims to predict sales for various products in BigMart stores using machine learning techniques. This project utilizes historical sales data to build predictive models that can help in inventory management, sales forecasting, and strategic planning.
+## Live Website
+https://bigmart-sales-prediction-2.onrender.com/
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
